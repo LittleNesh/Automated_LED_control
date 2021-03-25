@@ -26,9 +26,9 @@ int Ehour;
 int Emin;
 int Es;
 
-char ssid[] = "Telia-BB3AE3-Greitas";
-char pass[] = "427E50A40A";
-char auth[] = "LW2_wDrAhk9uFk8UdLuDwCIlMKr0X3of";
+char ssid[] = ""; // add yours
+char pass[] = ""; //add yours
+char auth[] = ""; //add yours
 
 void displaySensorDetails(void)
 {
